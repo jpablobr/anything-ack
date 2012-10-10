@@ -50,6 +50,7 @@
 
 (defvar  anything-ack-cmd
   "ack             \
+   --all           \
    --nopager       \
    --nocolor       \
    --follow        \
